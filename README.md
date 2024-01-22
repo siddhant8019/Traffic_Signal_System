@@ -1,2 +1,2 @@
 # Traffic_Signal_System
-The Machine learning project focuses on the difficulties metropolitan cities face—the solution to the existing traffic systems uses cameras and technology.
+The Machine learning project, focusing on the difficulties faced by the metropoltian cities. Solution to the existing traffic systems with the use of cameras and technology.
